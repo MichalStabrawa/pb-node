@@ -1,7 +1,8 @@
-const os = require("os");
+//Example 10,11
+
 const fs = require("fs");
 const process = require("process");
-const math = require("../math");
+const math = require("../8/math");
 
 let argv = process.argv;
 

@@ -1,4 +1,0 @@
-Uzytkownik Zuzanna Słowik
-Wynik 10 + 12 = 22
-Wynik 10 - 12 = -2
-Wynik 10 / 12 = 0.8333333333333334
