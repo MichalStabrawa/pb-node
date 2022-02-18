@@ -15,4 +15,4 @@ startRainbow = () => {
 };
 
 startRainbow();
-//node RainbowShow.js "example"
+//node rainbowShow.js "example"
